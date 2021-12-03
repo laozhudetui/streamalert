@@ -21,7 +21,7 @@ nose-timer
 pathlib2
 policyuniverse
 pyfakefs
-pylint==2.3.1
+pylint==2.7.0
 pymsteams
 requests
 Sphinx
