@@ -34,7 +34,7 @@ attrdict==2.0.1
 attrs==19.3.0
 aws-sam-translator==1.25.0
 aws-xray-sdk==2.6.0
-Babel==2.8.0
+Babel==2.9.1
 boto==2.49.0
 botocore==1.17.29
 cachetools==4.1.1
@@ -92,7 +92,7 @@ pytz==2020.1
 PyYAML==5.3.1
 requests-toolbelt==0.9.1
 responses==0.10.15
-rsa==4.6
+rsa==4.7
 s3transfer==0.3.3
 six==1.15.0
 smmap==3.0.4
@@ -109,7 +109,7 @@ stevedore==3.2.0
 toml==0.10.1
 typed-ast==1.4.1
 uritemplate==3.0.1
-urllib3==1.25.10
+urllib3==1.26.5
 validators==0.16.0
 wcwidth==0.2.5
 websocket-client==0.57.0
