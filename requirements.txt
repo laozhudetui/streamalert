@@ -23,7 +23,7 @@ pyfakefs==4.1.0
 pylint==2.3.1
 pymsteams==0.1.13
 requests==2.24.0
-Sphinx==3.1.2
+Sphinx==3.3.0
 sphinx-rtd-theme==0.5.0
 yapf==0.30.0
 ## The following requirements were added by pip freeze:
